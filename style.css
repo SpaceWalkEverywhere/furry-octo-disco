@@ -1,0 +1,23 @@
+.hd{
+    font-size: medium;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-size: cover;
+}
+.d-spd{
+    float: left;
+}
+.slow{
+    font-size: 23px;
+    padding: 15px;
+    margin: 15px;
+    color: #fff;
+    background-color: #1f1;
+    border: 5px solid white !important;
+}
+.d-vol{
+    float: right;
+}
